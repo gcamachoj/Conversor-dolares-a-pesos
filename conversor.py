@@ -13,7 +13,7 @@ print("")
 print("* Haz confirmado tener $: " + dolares + " dolares")
 print("* tu cantidad en pesos CO es $" + pesos_co + " pesos(co)")
 print()
-
-
-
+print("*************************************")
+print("        FINALIZADO")
+print("*************************************")
 
